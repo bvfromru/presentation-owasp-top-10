@@ -1,4 +1,4 @@
-RS School JavaScript/Front-end 2021Q3 soft skills improvement project. A presentation of OWASP Top-10 project in English.
+RS School JavaScript/Front-end 2021Q3 soft skills improvement task. A presentation of OWASP Top-10 project in English.
 
 Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/presentation.md
 
